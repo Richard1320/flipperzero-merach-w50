@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Merach_w50/inc_+1.sub
+DOWN: /ext/subghz/Merach_w50/inc_-1.sub
+LEFT: /ext/subghz/Merach_w50/spd_-0.1.sub
+RIGHT: /ext/subghz/Merach_w50/spd_+0.1.sub
+OK: /ext/subghz/Merach_w50/start.sub
+ULABEL: Up
+DLABEL: Down
+LLABEL: Slow
+RLABEL: Fast
+OKLABEL: Start
